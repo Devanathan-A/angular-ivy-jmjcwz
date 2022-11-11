@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": "001",
+      "name": "Money Plant, Scindapsus (Green) - Plant",
+      "price": 199,
+      "image": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-g-plant-money-plant-scindapsus-green-plant-in-4.5-inch-11-cm-ronda-no-1110-round-plastic-turquoise-plant_600x600.jpg?v=1637075960",
+      "description": "Money plants are best to fill the house with greenery and to bring prosperity and good luck."
+    },
+    {
+      "id": "002",
+      "name": "Peace Lily, Spathiphyllum - Plant",
+      "price": 299,
+      "image": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-g-plants-peace-lily-spathiphyllum-plant_600x600.jpg?v=1637123920",
+      "description": "Peace Lily Plant is a very popular and very rare indoor flowering houseplant. It is also an excellent air purifier plant."
+    },
+    {
+      "id": "003",
+      "name": "Fantastic Ficus Bonsai for Fabulous Mother",
+      "price": 799,
+      "image": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-gifts-fantastic-ficus-bonsai-for-fabulous-mother-16968853979276_600x600.jpg?v=1634219341",
+      "description": "It is not the gift but the love that counts. Show your love to your mother gift her everlasting Ficus Bonsai.."
+    },
+    {
+      "id": "004",
+      "name": "Decor Terrarium with Pebbles)",
+      "price": 200,
+      "image": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-combo-packs-pebbles-decor-terrarium-with-pebbles-16968817574028_600x600.jpg?v=1634217732",
+      "description": "This pack contains 1kg mix color polished chips pebbles giving an excellent contrast to your home beauty.."
+    },
+    {
+      "id": "005",
+      "name": " DIY Happy feet with Senecio - Miniature Garden",
+      "price": 700,
+      "image": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-miniature-gardens-diy-happy-feet-with-senecio-miniature-garden-16968916598924_600x600.jpg?v=1634218789",
+      "description": "This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer."
+    },
+    {
+      "id": "006",
+      "name": "Just Throw and Grow Tree Seed balls - 100 Seed balls",
+      "price": 100,
+      "image": "https://cdn.shopify.com/s/files/1/0047/9730/0847/products/nurserylive-seed-balls-just-throw-and-grow-tree-seed-balls-100-seed-balls-16968971092108_600x600.jpg?v=1634222692",
+      "description": "This seed ball pack contains 100 seed balls of any type of tree. Just throw land or place in the pot. It has everything required to grow once it rains (Or you can water them) to enjoy nature s beauty."
+    }
+  ]
+}
